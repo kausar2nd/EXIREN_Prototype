@@ -132,7 +132,7 @@ The system can also be run in **demo mode** without hardware.
 
 ## License
 
-This project is licensed under the **Apache License 2.0**.
+This project is licensed under the **Apache License 2.0**. See [`LICENSE`](LICENSE).
 
 You are free to use, modify, and distribute the code in accordance with the license terms. The license also provides explicit patent protection.
 
