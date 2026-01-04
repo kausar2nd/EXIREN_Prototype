@@ -81,8 +81,8 @@ This codebase serves as the **proof-of-concept implementation** of a research st
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kausar2nd/EXIREN_Prototype.git
-cd EXIREN_Prototype
+git clone https://github.com/kausar2nd/EXIREN.git
+cd EXIREN
 ```
 
 ### 2. Install Dependencies
